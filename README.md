@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, web design, data analytics, game development and mobile development.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on anything :)
-- 📫 How to reach me? via my email.
+- 📫 How to reach me? via my email: ammaralmajed7@gmail.com
 
 <!---
 Ammar-Almajed/Ammar-Almajed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
